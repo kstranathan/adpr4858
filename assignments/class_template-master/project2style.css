@@ -48,6 +48,9 @@ a:hover{
 .alignright {
     text-align: right;
 }
+.center {
+    text-align: center;
+}
 /****** Layout *******/
 .container1 {
     background-color: white;
@@ -70,7 +73,6 @@ a:hover{
     margin: 0 auto;
     padding: .85rem;
     width: min(95%, 75rem);
-    text-align: center;
 }
 .container > * {
     grid-column: span 12;
