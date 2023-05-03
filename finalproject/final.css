@@ -70,6 +70,13 @@ nav ul {
     display: flex;
     flex-flow: row wrap;
 }
+ul {
+    display: flex;
+    justify-content: center;
+    top: 0;
+    flex-flow: row wrap;
+    list-style-type: none;
+}
 nav li {
     margin: 0 0.5rem;
 }
