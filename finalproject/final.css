@@ -54,7 +54,7 @@ a:hover{
     grid-column: span 12;
 }
 .image-container {
-    width: 1100px; /* 4 images x 275px each */
+    width: 1200px; /* 4 images x 275px each */
   margin: 0 auto; /* Center the container on the page */
   text-align: center; /* Center the images horizontally */
 }
